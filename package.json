@@ -1,0 +1,22 @@
+{
+  "name": "qxtags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qxtags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "qxtags": "qxtags.js"
+  },
+  "author": {
+    "name": "Park, Jeongmin",
+    "email": "pjm0616@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "escodegen": "^1.9.1",
+    "esprima": "^4.0.0",
+    "esquery": "^1.0.1"
+  }
+}
